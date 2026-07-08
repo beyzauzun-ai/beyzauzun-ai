@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-profile-banner.png" alt="Beyza Uzun Banner" width="100%">
+</p>
+
 # Hi there, I'm Beyza Uzun 👋
 
 ### Junior Software Developer | Python Developer | AI & Machine Learning | MSc
