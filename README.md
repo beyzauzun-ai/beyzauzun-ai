@@ -22,9 +22,16 @@
 ☁️ Building AI applications using Google Cloud, Gemini API and ADK
 
 📈 Interested in Machine Learning, RAG and Multi-Agent Systems
+
 ---
 
 ## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,flask,html,css,js,docker,vscode,linux" />
+
+</p>
 
 - Python
 - SQL
