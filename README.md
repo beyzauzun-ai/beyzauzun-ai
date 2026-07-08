@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Google+Cloud+%7C+Gemini+%7C+ADK;Always+Learning+New+Things" />
 </p>
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 MSc in Chemistry Education
 
