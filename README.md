@@ -114,7 +114,7 @@
 - 💼 LinkedIn: https://linkedin.com/in/beyza-uzun-1520672b5
 - 💻 GitHub: https://github.com/beyzauzun-ai
 - 📊 Kaggle: https://kaggle.com/beyzauzun97
-
+- 📧 Email: byzuzn09@gmail.com
 ---
 
 
