@@ -9,11 +9,19 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Google+Cloud+%7C+Gemini+%7C+ADK;Always+Learning+New+Things" />
 </p>
+## 👩‍💻 About Me
 
-I am a Junior Software Developer with a background in Chemistry Education (MSc) and a passion for Artificial Intelligence, Machine Learning, and Data Analytics.
+🎓 MSc in Chemistry Education
 
-I enjoy building intelligent software solutions using Python, SQL, Google ADK, Gemini API, and modern AI technologies. My goal is to develop impactful applications while continuously improving my software engineering skills.
+💻 Transitioned into Software Development
 
+🤖 Passionate about Artificial Intelligence
+
+🐍 Python Developer
+
+☁️ Building AI applications using Google Cloud, Gemini API and ADK
+
+📈 Interested in Machine Learning, RAG and Multi-Agent Systems
 ---
 
 ## 🚀 Tech Stack
