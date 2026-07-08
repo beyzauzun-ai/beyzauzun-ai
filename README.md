@@ -31,7 +31,11 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,docker,flask,html,css,js,ts,mysql" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,docker" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,html,css,js,ts,mysql" />
 </p>
 
 - Python
