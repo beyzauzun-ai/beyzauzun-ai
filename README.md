@@ -78,11 +78,12 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning
-- LLM Applications
-- AI Agents
-- RAG Systems
-- Software Engineering Best Practices
+- 🤖 Multi-Agent AI Systems
+- ☁️ Google Cloud (Vertex AI & Cloud Run)
+- 🧠 Large Language Model (LLM) Applications
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧩 Google ADK, MCP & A2A Protocols
+- 📊 MLOps & AI Deployment Best Practices
 
 ---
 
