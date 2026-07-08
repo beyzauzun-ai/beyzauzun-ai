@@ -31,24 +31,27 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,flask,html,css,js,docker,vscode,linux" />
-
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,docker,flask,html,css,js,ts,mysql" />
 </p>
 
 - Python
-- SQL
-- Git & GitHub
-- Machine Learning
-- Data Analysis
+- SQL (MySQL)
+- JavaScript
+- TypeScript
+- HTML5 & CSS3
+- Flask
+- Streamlit
 - Pandas
 - NumPy
-- Streamlit
-- Flask
+- Machine Learning
+- Data Analysis
 - Google ADK
 - Gemini API
+- Git & GitHub
+- Docker
+- Linux
+- VS Code
 - Power BI
-
 
 ---
 
