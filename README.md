@@ -23,7 +23,9 @@
 
 📈 Interested in Machine Learning, RAG and Multi-Agent Systems
 
+
 ---
+
 
 ## 🚀 Tech Stack
 
@@ -50,15 +52,17 @@
 
 ## 🌟 Featured Projects
 
-📄 AI PDF Chatbot (Gemini API + Streamlit)
+🤖 Multi-Agent AI Systems
 
-🤖 AI Customer Support Agent (Google ADK)
+📄 Gemini PDF Chatbot
 
-🧳 AI Holiday Planner
+🧠 Loan Risk Prediction
 
-📊 AI Sales Data Assistant
+📊 Sales Data Assistant
 
-💳 AI Credit Risk Analysis
+🔍 Google Cloud RAG Agent
+
+🧪 Customer Service AI Agent
 
 ---
 
